@@ -1,5 +1,4 @@
 # **Policy-Based Authorization in ASP.NET Core**
-test
 ## **What is Policy-Based Authorization?**
 Policy-based authorization is a flexible and powerful authorization approach in ASP.NET Core. Unlike role-based authorization (which checks only user roles), **policy-based authorization** allows you to define custom authorization logic based on multiple factors, such as claims, roles, or complex business rules.
 
